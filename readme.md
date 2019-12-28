@@ -38,4 +38,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-"# Prueba_TIS" 
+
+### Prueba_TIS 
+
+### Instalacion
+
+- git clone https://github.com/AsokaZk/prueba_tis.git  (cmd)
+- cd prueba_git (cmd)
+(Ref) https://www.youtube.com/watch?v=KKpXpWCTlbo&list=PLPl81lqbj-4KHPEGngoy5PSjjxcwnpCdb&index=1
+- download xampp and install xampp-windows-x64-5.6.40 
+- download composerm and install
+- composer global require "laravel/installer" (cmd)
+
+### Run
+- php artisan serve
