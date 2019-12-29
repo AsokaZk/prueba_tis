@@ -45,10 +45,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 - git clone https://github.com/AsokaZk/prueba_tis.git  (cmd)
 - cd prueba_git (cmd)
-(Ref) https://www.youtube.com/watch?v=KKpXpWCTlbo&list=PLPl81lqbj-4KHPEGngoy5PSjjxcwnpCdb&index=1
+- (Ref) https://www.youtube.com/watch?v=KKpXpWCTlbo&list=PLPl81lqbj-4KHPEGngoy5PSjjxcwnpCdb&index=1
 - download xampp and install xampp-windows-x64-5.6.40 
 - download composerm and install
 - composer global require "laravel/installer" (cmd)
 
 ### Run
+- crear el nombre del archivo ".env" y copiar el contenido de ".env.example"
+- composer install
+- composer update
 - php artisan serve
